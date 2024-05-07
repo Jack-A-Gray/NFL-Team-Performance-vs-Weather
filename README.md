@@ -19,10 +19,6 @@ Data Scraping and Integration:
 - Initially, NFL game stats were scraped from Pro-Football Reference, then integrated with weather data from Kaggle using horizontal integration in R Studio. 
 - The final merged dataset contains 5,347 observations and 23 variables, adjusted for optimal analysis.
 
-### Data Cleaning
-- **Categorical to Binary**: Roof type data converted to binary (indoor = 1, outdoor = 0).
-- **Column Removal**: Unnecessary columns like Day Of Week, Time, Location, Average Pressure, and Average Humidity were removed to focus on relevant analysis metrics.
-
 ## Analysis
 ### Climate Impact Analysis
 We analyzed how teams from colder climates perform in cold weather compared to teams from more moderate climates, considering metrics like average points, yards, turnovers, and win percentages.
