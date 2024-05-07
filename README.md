@@ -36,6 +36,3 @@ We analyzed how teams from colder climates perform in cold weather compared to t
 ## Conclusion
 Our analysis provides insights into how weather conditions affect NFL team performances, with significant implications for team strategies in adverse weather conditions. Teams from colder climates show considerable advantages in cold weather, which could be pivotal in game preparation and strategy.
 
-## Access the Project
-Explore detailed analysis and data visualizations through our application link:
-[Access NFL Weather Analysis Project](https://www.kaggle.com/datasets/tombliss/weather-data?resource=download)
