@@ -23,9 +23,6 @@ Data Scraping and Integration:
 - **Categorical to Binary**: Roof type data converted to binary (indoor = 1, outdoor = 0).
 - **Column Removal**: Unnecessary columns like Day Of Week, Time, Location, Average Pressure, and Average Humidity were removed to focus on relevant analysis metrics.
 
-## Data Dictionary
-A comprehensive dictionary of the variables used in our dataset is maintained but not displayed here for brevity.
-
 ## Analysis
 ### Climate Impact Analysis
 We analyzed how teams from colder climates perform in cold weather compared to teams from more moderate climates, considering metrics like average points, yards, turnovers, and win percentages.
